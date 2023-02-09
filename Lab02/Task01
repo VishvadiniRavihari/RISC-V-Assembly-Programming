@@ -1,0 +1,4 @@
+Task01:Use available shift instructions to set the upper sections of the register. 
+There are multiple ways to do it, try using three shift immediate operations. 
+Debug the program and observe the t0 register to verify the desired value is available 
+at t0 at the end of the execution.
